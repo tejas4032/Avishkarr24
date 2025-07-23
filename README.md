@@ -27,8 +27,14 @@
 - Alarm alerts are triggered wirelessly from the web to ESP32 based on critical thresholds.
 
 ## 📊 Screenshots
+### 🔹 Home Page With Alert System
+![Home Page](./images/Home.png)
 
-(Add screenshots here: upload to `/images` folder and reference below)
+### 🔹 PowerBI_Dashboard
+![Dashboard](./images/PowerBi_DashBoard.png)
+
+### 🔹 Record Table
+![Record Table](./images/records.png)
 
 
 
