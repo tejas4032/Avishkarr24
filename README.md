@@ -34,7 +34,7 @@
 ![Dashboard](./images/PowerBi_DashBoard.png)
 
 ### 🔹 Record Table
-![Record Table](./images/records.png)
+![Record Table](./images/Records.png)
 
 
 
